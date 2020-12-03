@@ -1,0 +1,15 @@
+{
+  "name": "mikey",
+  "version": "1.0.0",
+  "description": "Discord.js bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "discord.js": "^11.5.0"
+  }
+}
